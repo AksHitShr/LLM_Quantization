@@ -1,7 +1,6 @@
-## Akshit Sharma (2021101029)
-### ANLP Assignment-4
+## LLM Quantization
 
-#### Files Submitted:
+#### Files:
 ##### Source code files
 - Full_Quantization.py
 - Selective_Quantization.py
